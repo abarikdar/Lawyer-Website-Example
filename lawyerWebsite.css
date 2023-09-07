@@ -137,7 +137,7 @@ ul li a:hover {
 #headline {
     text-shadow: 0 0 8px rgb(148, 148, 148), 0 0 3px rgb(126, 126, 126);
     font-size: 68px;
-    color: #fff;
+    color: #000;
     margin-top: 40px;
     text-transform: uppercase;
     z-index: 1;
